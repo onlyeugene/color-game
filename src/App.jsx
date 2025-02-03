@@ -1,4 +1,4 @@
-import ColorGame from "./ColorGame";
+import ColorGame from "./colorGame";
 
 function App() {
   return (
